@@ -1,0 +1,7 @@
+{
+    "name": "betothreeprod/updateshell",
+    "description": "A CakePHP Plugin: UpdateShell",
+    "require": {
+        "php": "^7.2"
+    }
+}
