@@ -6,6 +6,6 @@
     "homepage": "https://github.com/b23prodtm/update",
     "license": "GPL",
     "require": {
-        "php": "^7.2"
+        "php": "^7.1"
     }
 }
