@@ -10,5 +10,8 @@
     },
     "autoload": {
 	"psr-4": { "Betothreeprod\\": "." }
+    },
+    "extra": {
+	"installer-name": "UpdateShell"
     }
 }
